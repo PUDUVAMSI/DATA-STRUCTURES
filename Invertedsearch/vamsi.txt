@@ -1,0 +1,6 @@
+#0;are;2;file1.txt;1;file2.txt;1;#
+#5;fine;1;file1.txt;1;#
+#7;hii;1;file1.txt;1;#
+#7;hello;2;file1.txt;2;file2.txt;2;#
+#22;where;2;file1.txt;1;file2.txt;1;#
+#24;you;2;file1.txt;1;file2.txt;2;#
